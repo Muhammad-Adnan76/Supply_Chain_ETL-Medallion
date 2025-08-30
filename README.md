@@ -1,5 +1,6 @@
-#Supply Chain Data Warehouse | Medallion Architecture (Bronze, Silver, Gold) | ETL & Analytics
+# Supply Chain Data Warehouse  
 
+**Supply Chain Data Warehouse | Medallion Architecture (Bronze, Silver, Gold) | ETL & Analytics**
 A complete Supply Chain Data Warehouse project built using Medallion Architecture (Bronze, Silver, Gold layers). The project transforms raw Kaggle supply chain data into a star schema optimized for business intelligence and advanced analytics.
 
 🔹 Features
